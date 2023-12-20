@@ -1,0 +1,33 @@
+Check the playlist: https://youtube.com/playlist?list=PLkMYhICFMsGajeARsY7N1t1jhbtMb1poL
+Watch these tutorials:
+01 ==> 33: note on a small notebook the main tips
+96 ==> 111: learn more about the efficiency of the 3D sketching and the weldments, for now, just do a 3D sketch only using lines, don't use the "Structural member" function
+Recommended steps:
+1) Watch all the tutorials that are mentioned above, then create the side profile of the ladder frame on the "Right Plane" (use 3D sketching)
+You can copy the design from an existing chassis of one of these trucks: 
+https://drive.google.com/drive/folders/1Uf4muj5azvNDtUNMSrUOo0GdA3pom2Qp?usp=share_link
+
+2) Use real dimensions: Length: about 1800-2000 mm
+3) To know more about the suspension choice that you wanna go for, as well as about some chassis congigurations, check these files:
+
+VDHS-10 
+SSP 77
+BASE 04
+You find them in the: Mechanical team ==> Documents and ressources ==> Learning the basics
+
+4) ctrl+s / ctrl+z are soooo useful
+
+5) Once you finish the sketch on the right plane, create a plane parallel to it (on the "Geometry Reference" menu), the distance between the planes should be 450mm
+
+6) Move your 3D sketch above the new plane on the list on the left (Tutorial 32)
+
+7) Use the "Mirror entities" to create the other side of the vehicle: the mirror will be the plane that you created ==> width of the vehicle will be 900mm
+
+8) Start linking the sides to create a chassis that looks like one of those trucks (Chosen above)
+
+If you want to take a look at an existing 3D chassis made with tubes, check this folder:
+https://drive.google.com/drive/folders/1qA9Fb6QsFni9HoXvnNYHLPCFjLrW0uAA?usp=share_link
+You can download and modify it to experiment what you have learnt.
+
+Drive Folder link: 
+https://drive.google.com/drive/folders/1_db-RoCbNbzsRO3HQM-fblL1M5kMKOfs?usp=share_link

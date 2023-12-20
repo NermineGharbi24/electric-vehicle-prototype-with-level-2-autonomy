@@ -1,0 +1,19 @@
+* Electrical: 
+1) Explorer les véhicules équivalents : scooter électrique, trottinette électrique, vélos électriques, voiture téléguidées, motos thermiques...
+2) Determiner le choix du (de) :
+Type de moteurs: Convnetional DC, Brushless DC... 
+Capacité de la batterie pour une autonomie de 25km
+Puissance nécessaire du moteur pour mouvoir un véhicule de tel poids à 40km/h (Voir PDF de l'infosession pour plus de détails)
+Type de refroidissement des (moteurs, batteries, convertisseurs...) 
+Temps de recharge moyen 
+Autonomie réelle moyenne (selon catégorie) (distance parcourue de 100% ==> 10% de recharge)
+Cibler des moteurs, des batteries, et des chargeurs déjà existants
+3) Compiler une liste des Connaissances nécessaires sur les moteurs électriques: Physiques et Mathématiques 
+
+Liens utiles:
+http://simcc-peugeotscooters.com/
+https://zimota-motor.tn/
+https://www.veoelectric.tn/
+https://www.arrma-rc.com/
+https://www.arrma-rc.com/en/product/1-5-outcast-4wd-8s-blx-stunt-truck-rtr/ARA5810.html
+https://drive.google.com/drive/folders/1_db-RoCbNbzsRO3HQM-fblL1M5kMKOfs?usp=share_link

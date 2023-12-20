@@ -1,0 +1,15 @@
+Check the playlist: https://youtube.com/playlist?list=PLkMYhICFMsGajeARsY7N1t1jhbtMb1poL
+Watch these tutorials:
+01 ==> 33: note on a small notebook the main tips
+96 ==> 111: learn more about the efficiency of the 3D sketching and the weldments, for now, just do a 3D sketch only using lines, don't use the "Structural member" function
+Recommended steps:
+1) watch all the tutorials that are mentioned above, then create the side profile of the car on the "Right Plane" (use 3D sketching)
+2) use real dimensions and always check the overall dimensions: height and length
+3) you can check the conformity of the dimensions in comparison to the cars that are competitors (Folder named "Dimensions" found on the Drive Folder: Mechanical )
+4) ctrl+s / ctrl+z are soooo useful
+5) once you finish the sketch on the right plane, create a plane parallel to it (on the "Geometry Reference" menu), the distance between the planes should be 950mm
+6) move your 3D sketch above the new plane on the list on the left (Tutorial 32)
+7) use the "Mirror entities" to create the other side of the vehicle: the mirror will be the plane that you created ==> width of the vehicle will be 1900mm
+8) start linking the edges and imagine the stress points so all the links shouldn't be horizontal
+Drive Folder link: 
+https://drive.google.com/drive/folders/1_db-RoCbNbzsRO3HQM-fblL1M5kMKOfs?usp=sharing
