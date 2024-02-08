@@ -17,7 +17,7 @@ The Battery Electric Vehicle Prototype with Level 2 Autonomy project, conducted 
 
 ## Project Overview
 
-The project was conducted over a period of 5 months, from February 7, 2022, to June 30, 2022, with a focus on research, analysis, and simulation of various ADAS components. Key tasks included sensor evaluation, algorithm modeling, and proposal of a comprehensive ADAS architecture.
+The project was conducted over 5 months, from February 7, 2022, to June 30, 2022, with a focus on research, analysis, and simulation of various ADAS components. Key tasks included sensor evaluation, algorithm modeling, and proposal of a comprehensive ADAS architecture.
 
 ## Technical Details
 
@@ -29,12 +29,12 @@ The project was conducted over a period of 5 months, from February 7, 2022, to J
 
 ### Installation
 
-1. No installation required for project overview.
+1. No installation is required for project overview.
 2. MATLAB, Simulink, and TensorFlow are required for algorithm simulation and modeling.
 
 ### Usage
 
-1. Refer to project presentation for detailed insights into project methodology and findings.
+1. Refer to the project presentation for detailed insights into project methodology and findings.
 
 ## Contributing
 
