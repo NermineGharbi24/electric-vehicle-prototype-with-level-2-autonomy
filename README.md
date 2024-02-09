@@ -19,6 +19,11 @@ The Battery Electric Vehicle Prototype with Level 2 Autonomy project, conducted 
 
 The project was conducted over 5 months, from February 7, 2022, to June 30, 2022, with a focus on research, analysis, and simulation of various ADAS components. Key tasks included sensor evaluation, algorithm modeling, and proposal of a comprehensive ADAS architecture.
 
+## Project Presentation
+
+For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRa2juN624Tc61tlq7FGDUX7KFRx53b6qx4SRdXm2adVmO_lPayPTxFqeQNTRwDew/pub?start=false&loop=false&delayms=3000).
+
+
 ## Technical Details
 
 - **Sensor Evaluation**: Extensive evaluation of sensor technologies including stereo cameras, LiDARs, and 4D imaging radars, optimizing for cost-effective performance in level 2 autonomy scenarios.
