@@ -2,56 +2,41 @@
 
 ### IEEE INSAT Student Branch IAS Chapter
 
-**Skills and technologies used:** ADAS, AEB, APP, LKAS, RCTA, Sensor Fusion, LiDAR, 4D Radar, VCU, Path Planning, MPC, TensorFlow, YOLOv3, MATLAB, Simulink
+**Technologies:** ADAS, AEB, APP, LKAS, RCTA, Sensor Fusion, LiDAR, 4D Radar, VCU, Path Planning, MPC, TensorFlow, YOLOv3, MATLAB, Simulink
 
 ## Introduction
 
 The Battery Electric Vehicle Prototype with Level 2 Autonomy project, conducted under IEEE INSAT IAS, is a comprehensive exploration into advanced driver-assistance systems (ADAS) and autonomous driving technologies. Leveraging a range of cutting-edge tools and methodologies, this project aims to develop a cost-effective yet high-performance electric vehicle platform capable of level 2 autonomy.
 
-## Key Features
+## Project Scope
 
-- Evaluation and optimization of sensor technologies including stereo cameras, LiDARs, and 4D imaging radars for level 2 autonomy.
-- Integration and analysis of key ADAS functionalities such as Automatic Parallel Parking (APP), Lane Keeping Assist System (LKAS), Automatic Emergency Braking (AEB), and Rear Cross Traffic Alert (RCTA).
-- Modeling and simulation of ADAS algorithms using MATLAB, Simulink, TensorFlow, and YOLOv3 for path planning, vehicle tracking, and object detection.
-- Proposal of a hybrid sensor fusion architecture for efficient data processing and high-speed communication between vehicle control unit (VCU) and autonomy sensors.
-
-## Project Overview
-
-The project was conducted over 5 months, from February 7, 2022, to June 30, 2022, with a focus on research, analysis, and simulation of various ADAS components. Key tasks included sensor evaluation, algorithm modeling, and proposal of a comprehensive ADAS architecture.
+Commencing from February 7, 2022, to June 30, 2022, this project underwent rigorous evaluation and development phases. Led by a dedicated team of 13 individuals, the project delved into comprehensive research, analysis, and implementation of various advanced driver-assistance systems (ADAS) and autonomy features.
 
 ## Project Presentation
 
 For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRa2juN624Tc61tlq7FGDUX7KFRx53b6qx4SRdXm2adVmO_lPayPTxFqeQNTRwDew/pub?start=false&loop=false&delayms=3000).
 
+## Key Features
 
-## Technical Details
-
-- **Sensor Evaluation**: Extensive evaluation of sensor technologies including stereo cameras, LiDARs, and 4D imaging radars, optimizing for cost-effective performance in level 2 autonomy scenarios.
-- **ADAS Algorithm Modeling**: Simulation and validation of ADAS algorithms such as APP, LKAS, and AEB using MATLAB, Simulink, and TensorFlow, ensuring robust performance before implementation.
-- **Sensor Fusion Architecture**: Proposal of a hybrid sensor fusion concept for optimized data processing and communication between VCU, autonomy sensors, and external inputs.
-
-## Getting Started
-
-### Installation
-
-1. No installation is required for project overview.
-2. MATLAB, Simulink, and TensorFlow are required for algorithm simulation and modeling.
-
-### Usage
-
-1. Refer to the project presentation for detailed insights into project methodology and findings.
+- **Sensor Evaluation**: Extensive evaluation of stereo cameras, 2D and 3D LiDARs, and 4D imaging radars to optimize sensor selection for cost-effective Level 2 autonomy.
+- **ADAS Analysis**: In-depth research and analysis of Advanced Driver-Assistance Systems (ADAS) components like APP, LKAS, AEB, and RCTA, ensuring informed decision-making for successful integration.
+- **Automatic Parallel Parking (APP) Modeling**: Development of an MPC-based APP system validated through virtual environment simulations, ensuring robust performance prior to deployment.
+- **Lane Keeping Assist System (LKAS) Simulation**: Simulation of an LKAS system using MATLAB and Simulink, incorporating Hough transform and Sobel edge detection algorithms for accurate road analysis.
+- **Automatic Emergency Braking (AEB) Simulation**: Utilization of TensorFlow and YOLOv3 for simulating an AEB system employing LaneNet and DeepSORT for precise lane detection and vehicle tracking.
+- **Hybrid Sensor Fusion Concept**: Proposal of a hybrid sensor fusion architecture facilitating optimized data processing and high-speed transmission between VCU, sensors, and external inputs.
+- **Global ADAS Architecture**: Design of a practical ADAS architecture integrating VCU with autonomy sensors and infotainment display, ensuring seamless operation.
 
 ## Contributing
 
-Contributions to further enhance the capabilities and performance of this project are welcome.
+Contributions aimed at enhancing project functionalities and addressing emerging challenges are encouraged.
 
 ## License
 
 This project is licensed under the [GPL-3.0 License](LICENSE).
 
-## Contact
+## Contacts
 
-For inquiries or feedback, please contact:
+For inquiries or collaboration opportunities, please contact:
 
 - Elyes Khechine: elyeskhechine@gmail.com
 - Ahmed Zouari: ahmed.zouari@insat.ucar.tn
