@@ -16,7 +16,7 @@ Commencing from February 7, 2022, to June 30, 2022, this project underwent rigor
 
 For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRa2juN624Tc61tlq7FGDUX7KFRx53b6qx4SRdXm2adVmO_lPayPTxFqeQNTRwDew/pub?start=false&loop=false&delayms=3000).
 
-## Key Features
+## Technical Details
 
 - **Sensor Evaluation**: Extensive evaluation of stereo cameras, 2D and 3D LiDARs, and 4D imaging radars to optimize sensor selection for cost-effective Level 2 autonomy.
 - **ADAS Analysis**: In-depth research and analysis of Advanced Driver-Assistance Systems (ADAS) components like APP, LKAS, AEB, and RCTA, ensuring informed decision-making for successful integration.
