@@ -10,7 +10,7 @@ This project aimed to develop a cost-effective yet high-performance electric veh
 
 ## Project Scope
 
-Commencing from February 7, 2022, to June 30, 2022, this project was conducted under the IEEE INSAT Student Branch IAS Chapter by a dedicated team of 13 individuals and underwent rigorous evaluation and development phases.
+Commencing from February 7, 2022, to June 30, 2022, this project was conducted under the IEEE INSAT Student Branch IAS Chapter by a dedicated team of 13 individuals and underwent rigorous research and development phases.
 
 ## Project Presentation
 
