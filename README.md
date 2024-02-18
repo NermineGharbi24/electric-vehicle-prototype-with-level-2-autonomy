@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project is a comprehensive exploration of advanced driver-assistance systems (ADAS) and autonomous driving technologies. Leveraging a range of cutting-edge tools and methodologies, it aimed to develop a cost-effective yet high-performance electric vehicle platform capable of level 2 autonomy.
+This project aimed to develop a cost-effective yet high-performance electric vehicle platform capable of level 2 autonomy by leveraging advanced driver-assistance systems (ADAS) and autonomous driving technologies.
 
 ## Project Scope
 
