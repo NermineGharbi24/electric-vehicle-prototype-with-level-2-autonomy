@@ -12,9 +12,9 @@ This project aimed to develop a cost-effective yet high-performance electric veh
 
 Commencing from February 7, 2022, to June 30, 2022, this project was conducted under the IEEE INSAT Student Branch IAS Chapter by a dedicated team of 13 individuals and underwent rigorous research and development phases.
 
-## Project Presentation
+## ADAS Integration Presentation
 
-For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRa2juN624Tc61tlq7FGDUX7KFRx53b6qx4SRdXm2adVmO_lPayPTxFqeQNTRwDew/pub?start=false&loop=false&delayms=3000).
+For a detailed overview of ADAS integration, including chosen systems, algorithms, and sensors, please refer to [this presentation](https://docs.google.com/presentation/d/e/2PACX-1vRa2juN624Tc61tlq7FGDUX7KFRx53b6qx4SRdXm2adVmO_lPayPTxFqeQNTRwDew/pub?start=false&loop=false&delayms=3000).
 
 ## Technical Details
 
