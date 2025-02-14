@@ -20,9 +20,6 @@ For a detailed overview of ADAS integration, including chosen systems, algorithm
 
 - **Sensor Evaluation**: Extensive evaluation of stereo cameras, 2D and 3D LiDARs, and 4D imaging radars to optimize sensor selection for cost-effective Level 2 autonomy.
 - **ADAS Analysis**: In-depth research and analysis of Advanced Driver-Assistance Systems (ADAS) components like APP, LKAS, AEB, and RCTA, ensuring informed decision-making for successful integration.
-- **Automatic Parallel Parking (APP) Modeling**: Development of an MPC-based APP system validated through virtual environment simulations, ensuring robust performance before deployment.
-- **Lane Keeping Assist System (LKAS) Simulation**: Simulation of an LKAS system using MATLAB and Simulink, incorporating Hough transform and Sobel edge detection algorithms for accurate road analysis.
-- **Automatic Emergency Braking (AEB) Simulation**: Utilization of TensorFlow and YOLOv3 for simulating an AEB system employing LaneNet and DeepSORT for precise lane detection and vehicle tracking.
 - **Hybrid Sensor Fusion Concept**: Proposal of a hybrid sensor fusion architecture facilitating optimized data processing and high-speed transmission between VCU, sensors, and external inputs.
 - **Global ADAS Architecture**: Design of a practical ADAS architecture integrating VCU with autonomy sensors and infotainment display, ensuring seamless operation.
 
