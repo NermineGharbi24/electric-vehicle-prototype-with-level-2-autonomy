@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Battery Electric Vehicle Prototype with Level 2 Autonomy
 
 ### IEEE INSAT Student Branch IAS Chapter
@@ -48,3 +49,4 @@ For inquiries or collaboration opportunities, please contact:
 - Nermine Gharbi: nermine.e.gharbi@gmail.com
 - Saihi Hachem: hachem.saihi@insat.ucar.tn
 - Youssra Manita: youssra.manita@insat.ucar.tn
+
