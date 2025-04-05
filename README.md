@@ -45,6 +45,6 @@ For inquiries or collaboration opportunities, please contact:
 - Eya Ben Aziza: eya.benaziza@insat.ucar.tn
 - Khawla Soltani: khawla.soltani@insat.ucar.tn
 - Methlouthi Nourhene: nourhene.methlouthi@insat.ucar.tn
-- Nermine Gharbi: nermine.gharbi@insat.ucar.tn
+- Nermine Gharbi: nermine.e.gharbi@gmail.com
 - Saihi Hachem: hachem.saihi@insat.ucar.tn
 - Youssra Manita: youssra.manita@insat.ucar.tn
