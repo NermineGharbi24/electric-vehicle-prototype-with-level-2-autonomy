@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Battery Electric Vehicle Prototype with Level 2 Autonomy
 
 ### IEEE INSAT Student Branch IAS Chapter
